@@ -1,12 +1,13 @@
 /**
 .music-samll{
-transform: scale(0.5);
+zoom: 1;
 缩小代码
 }
 */
 /* 播放器大小 */
 .music-player {
     width: 550px;
+	zoom: 1;
 }
 
 /* 播放器位置 */
