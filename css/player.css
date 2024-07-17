@@ -1,21 +1,16 @@
 /**
-.music-samll{
-zoom: 1;
+
+zoom: 0.5;
 缩小代码
 }
-*/
 /* 播放器大小 */
 .music-player {
     width: 550px;
-	zoom: 1;
+	
+	zoom:0.6;
 }
 
 /* 播放器位置 */
-.music-player {
-    position: absolute;
-	top: 0%;
-    left: 0%;
-}
 
 
 

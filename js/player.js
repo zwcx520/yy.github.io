@@ -25,24 +25,30 @@ class Musics {
     //歌曲
     constructor() {
         this.songs = [{
-                id: 1,
-                title: '七月七日晴',
-                singer: '半吨兄弟',
-                songUrl: 'https://webfs.hw.kugou.com/202407120356/2454927ebc738dca06ec1959d4cbea88/KGTX/CLTX001/7647c76ad562f28877d99b6c486ba086.mp3',
-                imageUrl: 'https://imgessl.kugou.com/stdmusic/20240705/20240705170103276505.jpg'
+             
+                title: '问风 (Live)',
+                singer: 'GAI周延、吉克隽逸',
+                songUrl: 'yy/1.mp3',
+                imageUrl: 'images/20220311101301951240.jpg'
             },
-            {
-                id: 2,
-                title: ' 暮色回响',
-                singer: '吉星出租 ',
-                songUrl: 'https://webfs.hw.kugou.com/202407120401/3fbb7984190d6056ff54b820cb538990/part/0/960139/KGTX/CLTX001/clip_d1269e952df939cf44b3eaadf383f07c.mp3',
-                imageUrl: 'https://imgessl.kugou.com/stdmusic/20240517/20240517141513238260.jpg'
+           {
+               
+               title: ' 迟来的情话',
+               singer: 'Zkaaai ',
+               songUrl: 'yy/2.mp3',
+               imageUrl: 'images/20221207132630578281.jpg'
+           }, {
+                
+                title: ' 和宇宙的温柔关联',
+                singer: '房东的猫 ',
+                songUrl: 'yy/4.mp3',
+                imageUrl: 'images/20230925181402169065.jpg'
             },{
-                id: 3,
-                title: '冬眠·2023',
-                singer: ' 阿YueYue、刘兆宇',
-                songUrl: 'https://webfs.hw.kugou.com/202407120405/42b6fc0623b36aaebf2c0e85e34e1c4f/part/0/480332/KGTX/CLTX001/clip_d9d166515820178560602c465f1f06ec.mp3',
-                imageUrl: 'https://imgessl.kugou.com/stdmusic/20231229/20231229184006926179.jpg'
+                
+                title: '永不失联的爱 (Live)',
+                singer: ' 单依纯',
+                songUrl: 'yy/3.mp3',
+                imageUrl: 'images/20200904134306596847.jpg'
             }
         ]
     }
